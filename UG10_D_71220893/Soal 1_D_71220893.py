@@ -24,7 +24,7 @@ elif a == 5 :
     jumlah = b % c
     print ("Hasil dari",b,"Sisa Bagi dengan",c,"adalah",jumlah)
 elif a == 6 :
-    jumlah = b / c
+    jumlah = b ** c
     print ("Hasil dari",b,"Pemangkatan dengan",c,"adalah",jumlah)
 else :
     print ("raiso")
